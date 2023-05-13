@@ -1,0 +1,36 @@
+.cart-products {
+  margin-left: 27px;
+}
+hr {
+  width: 60%;
+  border: 1px solid crimson;
+  margin-top: 30px;
+}
+
+.bill-summary {
+  float: right;
+
+  border: 2px solid crimson;
+  border-radius: 10px;
+
+  width: 35%;
+  padding: 7px;
+
+  position: absolute;
+  right: 10px;
+  top: 120px;
+}
+
+/* positioning the continue shopping button */
+.continue-btn {
+  position: absolute;
+  right: 150px;
+  top: 350px;
+}
+
+/* when the cart is empty */
+
+.empty-cart {
+  margin-top: 10px;
+  margin-left: 150px;
+}

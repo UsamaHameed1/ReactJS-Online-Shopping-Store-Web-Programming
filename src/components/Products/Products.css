@@ -1,0 +1,12 @@
+.products {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 500px 500px 500px;
+
+  margin-left: 300px;
+}
+#searchBar {
+  padding: 5px;
+  background-color: antiquewhite;
+  margin-left: 400px;
+}

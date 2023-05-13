@@ -1,0 +1,40 @@
+nav {
+  width: 100%;
+}
+
+.nav {
+  background-color: #ff0000;
+  height: 50px;
+  width: 100%;
+}
+
+.nav li {
+  display: inline-block;
+  margin: 10px 30px;
+}
+.nav li a {
+  text-decoration: none;
+  color: white;
+}
+
+.searchBar {
+  float: right;
+}
+
+.searchBar label {
+  color: white;
+  margin-right: 10px;
+}
+.searchBar input {
+  border: 0px;
+  border-radius: 5px;
+  padding: 3px;
+  color: black;
+}
+
+.links-nav {
+  padding: 5px;
+}
+.links-nav:hover {
+  background-color: #bd6060;
+}

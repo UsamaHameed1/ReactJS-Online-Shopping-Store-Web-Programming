@@ -1,0 +1,14 @@
+.btn-select {
+  text-align: center;
+}
+
+.btn-select button {
+  background-color: crimson;
+
+  border: 0px solid black;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+  width: 150px;
+  height: 30px;
+}

@@ -1,0 +1,26 @@
+.single-product {
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: 300px 500px;
+}
+.left img {
+  width: 280px;
+  border: 0.5px solid black;
+  border-radius: 5px;
+}
+
+.right {
+  padding-top: 40px;
+}
+
+.right span {
+  color: crimson;
+}
+
+.my-cart button {
+  background-color: crimson;
+  padding: 12px;
+  border-radius: 4px;
+  border: 0px;
+  color: white;
+}
